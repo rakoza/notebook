@@ -1,0 +1,8 @@
+site_name: Notebook
+site_url: http://rakoza.online
+nav:
+  - Home: index.md
+  - PHP: /php
+  - Laravel: /laravel
+  - About: about.md
+# theme: readthedocs
