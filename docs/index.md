@@ -8,11 +8,11 @@
 - [Search Files in Linux by Find Command](https://medium.com/coinmonks/10-practical-examples-to-search-files-in-linux-by-find-command-da9d89f9253b)
 - [What is a Loop device in Linux?](https://itsfoss.com/loop-device-linux/)
 
-## Sublime
-- [Intelephense](https://intelephense.com/)
-
 ## Static Site Generators
 - [Jigsaw](https://jigsaw.tighten.com/)
+- [McDocs](https://www.mkdocs.org/)
+- [Docusaurus](https://docusaurus.io/)
+- [JyKill](https://jekyllrb.com/)
 
 ## Docker
 - [Containers are chroot with a Marketing Budget](https://earthly.dev/blog/chroot/)
